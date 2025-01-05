@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cryptodash-stack/impress.git"
+    "url": "git+https://github.com/cryptodash-stack/Birthday--wish.git"
   },
   "keywords": [
     "Happy",
@@ -25,8 +25,8 @@
   "author": "CRYPTODASH",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cryptodash-stack/impress/issues"
+    "url": "https://github.com/cryptodash-stack/Birthday--wish/issues"
   },
-  "homepage": "https://github.com/cryptodash-stack/impress#readme",
+  "homepage": "https://github.com/cryptodash-stack/Birthday--wish#readme",
   "dependencies": {}
 }
