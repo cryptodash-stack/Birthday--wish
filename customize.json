@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey",
+  "name": "Beautiful",
+  "greetingText": "I've been waiting for this special day!",
+  "wishText": "May all your dreams turn into reality and all your efforts into great achievements!",
+  "imagePath": "img/cake.png",
+  "text1": "It's your birthday!!! 🎉",
+  "textInChatBox": "Happy birthday to the most amazing person! Wishing you a day filled with joy and laughter!",
+  "sendButtonLabel": "Send",
+  "text2": "I could have sent you a normal message.",
+  "text3": "But that wouldn't be enough.",
+  "text4": "I wanted to make something",
+  "text4Adjective": "extraordinary",
+  "text5Entry": "Because...",
+  "text5Content": "You're One of a Kind",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Hope this made you smile!",
+  "replayText": "Click here to watch it again!",
+  "outroSmiley": ":)"
+}
